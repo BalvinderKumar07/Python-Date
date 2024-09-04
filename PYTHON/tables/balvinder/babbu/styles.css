@@ -1,0 +1,667 @@
+.Boost
+{
+	width: 100%;
+	height: 630px;
+	/*background-color: ;*/
+}
+.boost1
+{
+	width: 675px;
+	height: 100%;
+	background-color: #DDDDDD;
+	float: left;
+}
+.boost2
+{
+	width: 674px;
+	height: 100%;
+	background-color:#EEEEEE;
+	float: left;
+}
+.boost1 img
+{
+	margin: 100px;
+	border-radius: 20px;
+}
+.boost2 h1
+{
+	margin: 80px;
+}
+.boost2 p 
+{
+	margin-left: 80px;
+	margin-top: 50;
+	font-size: 20px;
+}
+.very
+{
+	width: 100%;
+	height: 700px;
+	/*background-color: #E9D5DA;*/
+}
+.very1
+{
+	width: 50%;
+	height: 100%;
+	/*background-color: #827397;*/
+	float: left;
+}
+.very2 
+{
+	/*background-color: #40DFEF;	*/
+}
+.very1 h1
+{
+	font-size: 45px;
+	margin:50px;
+}
+.very1 p
+{
+	font-size: 20px;
+	text-align: left;
+	margin:50px;
+}
+.very1 button
+{
+   margin-top: 20px;
+   width: 200px;
+   height: 60px;
+   background-color:#3e9c4e;
+   border-radius: 70px;
+   border: none;
+   font-size: 20px;
+   color: white;
+   margin-left: 50px;
+   transition: 1.5s;
+}
+.very1 button:hover
+{
+	background-color:#282828;
+}
+.very3
+{
+	width: 500px;
+	height: 530px;
+	margin: 80px;
+	background-color:#3e9c4e;
+	border-radius: 10px;
+}
+.very3 p 
+{
+	margin:100px;
+	position: relative;
+	top: 50px;
+	font-size:20px;
+	color: white;
+	text-align: left;
+}
+.very3 p span
+{
+   font-size: 45px;
+}
+.gallery
+{
+	width: 100%;
+	height: 1100px;
+	background-color: #DDDDDD;
+}
+.gallery h1 
+{
+	text-align: center;
+	font-size: 55px;
+	/*margin: 100px;*/
+	position: relative;
+	top: 100px;
+}
+.gallery1
+{
+	width: 346px;
+	height: 345px;
+	float: left;
+	background-color: white;
+	margin:20px;
+	transition: 1.5s;
+}
+.gallery2
+{
+	width: 1200px;
+	height: 1000px;
+	/*background-color: #78938A;*/
+	margin: auto;
+	position: relative;
+	top: 150px;
+}
+.gallery3
+{
+	/*background-color: #FF5F00;*/
+	margin-left:40px;
+	margin-top: 40px;
+}
+.gallery4
+{
+	/*background-color: #B20600;*/
+	margin-top: 40px;
+
+}
+.gallery5
+{
+	/*background-color: #92BA92;*/
+	margin-top: 40px;
+
+}
+.gallery6
+{
+	/*background-color: #4700D8;*/
+	margin-left:40px;
+}
+.gallery7
+{
+	/*background-color: #9900F0;*/
+}
+.gallery8
+{
+	/*background-color: #30AADD;*/
+}
+.gallery1 img
+{
+	width: 326px;
+	height: 325px;
+	margin: 10px;
+}
+.gallery1:hover
+{
+	background-color:#3e9c4e;
+}
+.work
+{
+	width: 100%;
+	height: 700px;
+	background-color:#3e9c4e;
+}
+.work1
+{
+	width: 1200px;
+	height: 500px;
+	border-radius: 20px;
+	background-color: white;
+	margin: auto;
+	position: relative;
+	top: 100px;
+}
+.work2
+{
+	width: 350px;
+	height: 350px;
+	border-radius: 350px;
+	background-color: red;
+	margin-left: 50px;
+	position: relative;
+	top: 88.5px;
+	float: left;
+}
+.work2 img
+{
+	width: 350px;
+	height: 350px;
+	border-radius: 350px;
+}
+.work3
+{
+	width: 700px;
+	height: 100%;
+	/*background-color: yellow;*/
+	float: left;
+	margin-left: 80px;
+}
+.work3 h1 
+{
+	font-size: 40px;
+	position: relative;
+	top: 88.5px;
+}
+.work3 p 
+{
+	font-size: 20px;
+	text-align: justify;
+	margin-top: 100px;
+	margin-right: 45px;
+}
+.work3 button
+{
+	margin-top: 50px;
+   width: 200px;
+   height: 60px;
+   background-color:#f0ca4d;
+   border-radius: 70px;
+   border: none;
+   font-size: 20px;
+   color: white;
+   /*margin-left: 80px;*/
+   transition: 1.5s;
+}
+.work3 button:hover
+{
+	background-color:#282828;
+}
+.Business
+{
+	width: 100%;
+	height: 1150px;
+	/*background-color: #C3E5AE;*/
+}
+.Business h1
+{
+	text-align: center;
+	font-size: 45px;
+	position: relative;
+	top: 70px;
+}
+.Business1
+{
+	width:566px;
+	height: 800px;
+	/*background-color: #F2FA5A;*/
+	float: left;
+	margin:20px;
+	position: relative;
+	top: 100px;
+}
+.Business2
+{
+	margin-left: 92px;
+}
+.Business1 img
+{
+	width: 100%;
+	height: 423px;
+	border-radius: 10px;
+}
+.Business1 h3 
+{
+	margin-top: 20px;
+}
+.Business1 h3:hover
+{
+	color:#3e9c4e ;
+}
+.Business1 p 
+{
+	font-size: 20px;
+	text-align: left;
+	margin-top: 20px;
+}
+.Business1 button
+{
+	margin-top: 40px;
+   width: 200px;
+   height: 60px;
+   background-color:#3e9c4e;
+   border-radius: 70px;
+   border: none;
+   font-size: 20px;
+   color: white;
+   /*margin-left: 80px;*/
+   transition: 1.5s;
+}
+.Business1 button:hover
+{
+	background-color:#282828;
+}
+.Your
+{
+	width: 100%;
+	height: 1000px;
+	background-color: #DDDDDD;
+}
+.Your h1 
+{
+	font-size: 45px;
+	position: relative;
+	top: 100px;
+	text-align: center;
+}
+.Your1
+{
+	width: 1300px;
+	height: 600px;
+	margin: auto;
+	/*background-color: #FFEEEE;*/
+	margin-top: 150px;
+}
+.Your2
+{
+	width: 400px;
+   height: 600px;
+   background-color: white;
+   float: left;
+   margin-left: 25px;
+   border-radius: 10px;
+}
+.Your2 h2
+{
+	margin-left: 60px;
+	margin-top: 40px;
+}
+.under 
+{
+	width: 280px;
+	height: 10px;
+	border-bottom: solid black 1px;
+	margin-left: 60px;
+   
+	/*background-color: red;*/
+}
+.Your2 ul
+{
+	margin-left: 60px;
+	font-size: 20px;
+	margin-top: 50px;
+}
+.Your2 ion-icon
+{
+	margin-right: 10px;
+}
+.Your2 button
+{
+	margin-top: 20px;
+   width: 200px;
+   height: 60px;
+   background-color:#3e9c4e;
+   border-radius: 70px;
+   border: none;
+   font-size: 20px;
+   color: white;
+   margin-left: 60px;
+   transition: 1.5s;
+}
+.Your2 button:hover
+{
+	background-color:#282828;
+}
+.Contact 
+{
+	width: 100%;
+	height: 400px;
+	background-color:#3e9c4e;
+}
+.Contact1
+{
+	width: 1100px;
+	height: 300px;
+	/*background-color:lightblue;*/
+	color: white;
+	margin: auto;
+	position: relative;
+	top: 50px;
+}
+.Contact1 h1
+{
+	font-size: 45px;
+	margin-left: 50px;
+	text-align: left;
+	margin: 0px;
+	position: relative;
+	top: 50px;
+}
+.Contact1 button
+{
+	margin-top: 20px;
+   width: 200px;
+   height: 60px;
+   background-color:white;
+   border-radius: 70px;
+   border: none;
+   font-size: 20px;
+   color: black;
+   margin-left: 60px;
+   transition: 1.5s;
+   position: relative;
+   right: -840px;
+   top: -60px;
+}
+.Contact1 button:hover
+{
+	background-color:#282828;
+	color: white;
+}
+.Info 
+{
+	width: 100%;
+	height: 400px;
+	/*background-color: #5F7464;*/
+	margin: 0px;
+	padding: 0px;
+}
+.Info1
+{
+	width: 1200px;
+	height: 400px;
+	/*background-color: #E4AEC5;*/
+	margin: auto;
+	position: relative;
+	/*top: 100px;*/
+}
+.Info1 h1 
+{
+	font-size: 45px;
+	margin-left: 100px;
+	position: relative;
+	top: 50px;
+}
+.Info1 p 
+{
+	font-size: 20px;
+   margin-left: 100px;
+	position: relative;
+	top: 50px;
+}
+.Info1 p span
+{
+	margin-left: 40px;
+}
+.Povide6
+{
+ position: relative;
+ left: -435px;
+ top: 50px;
+}
+.Info1 img
+{
+
+	height: 320px;
+	position: relative;
+	left: 630px;
+	top: -300px;
+	border-radius: 10px;
+}
+.Partners
+{
+	width: 100%;
+	height: 400px;
+	background-color: #DFDFDE;
+}
+.Partners1 
+{
+	width: 1200px;
+	height: 100%;
+	/*background-color: #F6FFA4;*/
+	margin: auto;
+}
+.Partners1 h1
+{
+	font-size: 55px;
+	text-align: center;
+	position: relative;
+	top: 50px;
+}
+.Partners1 img
+{
+	position: relative;
+	top: 100px;
+	margin-left: 80px;
+}
+.Instant
+{
+	width: 100%;
+	height: 850px;
+	background-color: #B6FFCE;
+}
+.Instant1
+{
+	width: 1400px;
+	height: 100%;
+	margin: auto;
+	background-color: #383838;
+}
+.Instant1 h1
+{
+	margin-left: 100px;
+	font-size: 45px;
+	color: white;
+	position: relative;
+	top: 80px;
+	line-height: 0.9;
+
+}
+.Instant1 h1 span
+{
+	font-size: 25px;
+}
+.Instant1 input[type=text], select 
+{
+  width: 500px;
+  height: 100px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border-radius: 4px;
+  box-sizing: border-box;
+  position: relative;
+  left: 700px;
+  top: -40px;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  
+}
+.Instant1 input[type=submit]
+{
+  background-color:#3e9c4e;
+  width: 150px;
+  height: 50px;
+  position: relative;
+  top: -40px;
+  margin-left: 520px;
+  border: none;
+  border-radius: 5px;
+  font-size:20px;
+  transition: 1.5s;
+
+}
+.Instant1 input[type=submit]:hover
+{
+   background-color: black;
+   color: white;
+}
+.line12
+{
+	width: 1200px;
+	height: 10px;
+	/*background-color: red;*/
+	border-bottom: solid white 1.9px;
+	margin: auto;
+}
+.Instant2
+{
+	width: 1250px;
+	height: 600px;
+	/*background-color: #FF6363;*/
+	position: relative;
+	top: 20px;
+	margin: auto;
+}
+.Instant3
+{
+	width: 300px;
+	height: 450px;
+	/*background-color: #417D7A;*/
+	float: left;
+	margin-left: 1px;
+	position: relative;
+	top: 40px;
+}
+.Instant3 h2
+{
+	color:white;
+	margin-left: 40px;
+}
+.Instant3 p 
+{
+	font-size: 20px;
+	text-align: left;
+	color: white;
+	margin-top: 60px;
+}
+.Instant4
+{
+	width: 100%;
+	height: 100%;
+	position: relative;
+	left: -30px;
+}
+.Instant3 h2
+{
+	color: white;
+}
+.Instant3 ul
+{
+	margin-left: 10px;
+	font-size: 20px;
+	margin-top: 60px;
+	line-height: 20px;
+}
+.Instant3 ul li
+{
+	color: white;
+	margin-left: 40px;
+
+}
+.Instant3  a 
+{
+	text-decoration: none;
+}
+.Instant3 ul li:hover
+{
+	color:#3e9c4e ;
+}
+.Instant3 ion-icon
+{
+	margin-right: 10px;
+}
+.Instant3 span
+{
+	margin-left: 20px;
+}
+.line13
+{
+	position: relative;
+	top: -120px;
+}
+.par p 
+{
+	font-size: 20px;
+	color: white;
+	margin-left: 100px;
+	margin-top: -90px;
+}
+.par  span
+{
+	margin-left: 380px;
+}
+
+
+
+
+
+
+
